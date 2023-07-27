@@ -33,12 +33,12 @@
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### 🦁 BOJ / Solved.ac
-- BOJ : [**leena3823**](https://www.acmicpc.net/user/lnk5324)
-- Solved.ac : [**leena3823**](https://solved.ac/profile/Ink5324)
+- BOJ : [**jwp0329**](https://www.acmicpc.net/user/jwp0329)
+- Solved.ac : [**jwp0329**](https://solved.ac/profile/jwp0329)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leena3823)](https://solved.ac/leena3823)
-[![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=leena3823)](https://solved.ac/leena3823/)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwp0329)](https://solved.ac/jwp0329)
+[![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=jwp0329)](https://solved.ac/jwp0329/)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lee-nakyung&bg_color=FFFFFF&color=7396CF&title_color=7396CF&line=7396CF&point=50688F&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-nakyung&show_icons=true&title_color=7396CF&text_color=7396CF&icon_color=7396CF&hide_border=true&bg_color=FFFFFF)
