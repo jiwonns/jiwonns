@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-nakyung&count_bg=%236EFF00&title_bg=%2300E8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&pause=1000&color=6013F7&center=true&vCenter=true&repeat=true&width=435&lines=Na._.kyung's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&pause=1000&color=6013F7&center=true&vCenter=true&repeat=true&width=435&lines=Jiwon's+Github)](https://git.io/typing-svg)
 
 <!-- 추천 font : Nixie One Monoton Silkscreen CodystarMonofett -->
 
