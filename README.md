@@ -39,8 +39,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwp0329)](https://solved.ac/jwp0329)
 [![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=jwp0329)](https://solved.ac/jwp0329/)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lee-nakyung&bg_color=FFFFFF&color=7396CF&title_color=7396CF&line=7396CF&point=50688F&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hs-1971342-jiwonpark&bg_color=FFFFFF&color=7396CF&title_color=7396CF&line=7396CF&point=50688F&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-nakyung&show_icons=true&title_color=7396CF&text_color=7396CF&icon_color=7396CF&hide_border=true&bg_color=FFFFFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs-1971342-jiwonpark&show_icons=true&title_color=7396CF&text_color=7396CF&icon_color=7396CF&hide_border=true&bg_color=FFFFFF)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-nakyung)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs-1971342-jiwonpark)](https://github.com/anuraghazra/github-readme-stats)
